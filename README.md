@@ -1,6 +1,8 @@
-#Fractal-PS5
+# Fractal-PS5
 
-##Controls
+## Controls
 X - Zoom in
+
 O - Zoom out
+
 D-pad - Moves the cursor
